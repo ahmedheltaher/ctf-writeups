@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- [2022-09-13] [HTML](./CyberTalents/Introduction-to-Cybersecurity/lesson-3.md)
+- [2022-09-13] [JavaScript](./CyberTalents/Introduction-to-Cybersecurity/lesson-4.md)
 
 ---
 

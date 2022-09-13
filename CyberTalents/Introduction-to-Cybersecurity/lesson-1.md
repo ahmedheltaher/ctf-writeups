@@ -14,6 +14,8 @@ In this lesson, we will learn about CTFs there are many types of CTFs, but in th
 
 In this challenge, we just need to do some research about `Ransomware` and we will find that `Ransomware` is a type of malware that encrypts your files and locks your machine screen until you pay the ransom.
 
+## References
+
 *Ransomware is a type of malware from cryptovirology that threatens to publish the victim's personal data or permanently block access to it unless a ransom is paid.*
 
 if you are not familiar with ransomware, you can read more about it [here](https://en.wikipedia.org/wiki/Ransomware).

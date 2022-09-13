@@ -14,6 +14,8 @@ In this lesson, we will learn about HTML, some of the most common HTML tags, and
 
 In this challenge, we just need to do some research about `htmlentities` and `XSS`, and we will find that `htmlentities` can be exploited to run XSS payload, so the answer is `False`.
 
+## References
+
 *HTML entities are characters that are not allowed in HTML. HTML entities are used to display reserved characters in HTML. HTML entities are also used to display special characters:*
 
 ```html
