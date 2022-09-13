@@ -4,7 +4,7 @@ This is a collection of writeups for CTF Challenges from [CyberTalents](https://
 
 ## Recent Writeups
 
-- [2022-09-13] [JavaScript](./Introduction-to-Cybersecurity/lesson-4.md).
+- [2022-09-13] [Cookies](./Introduction-to-Cybersecurity/lesson-5.md).
 
 ## Topics
 

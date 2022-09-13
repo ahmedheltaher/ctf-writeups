@@ -18,4 +18,5 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 1: [Introduction to CTF](./lesson-1.md)
 - Lesson 2: [Introduction to Web Security](./lesson-2.md)
 - Lesson 3: [HTML](./lesson-3.md)
-- Lesson 4: [JavaScript](./lesson-4.md)
+- Lesson 4: [JavaScript](./lesson-4.md).
+- Lesson 5: [Cookies](./lesson-5.md)
