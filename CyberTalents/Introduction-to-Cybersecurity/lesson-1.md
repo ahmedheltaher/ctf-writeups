@@ -12,7 +12,7 @@ In this lesson, we will learn about CTFs there are many types of CTFs, but in th
 
 ## Solution
 
-In this challenge, we just need to guess the name of the challenge, which is `ransomware`.
+In this challenge, we just need to do some research about `Ransomware` and we will find that `Ransomware` is a type of malware that encrypts your files and locks your machine screen until you pay the ransom.
 
 *Ransomware is a type of malware from cryptovirology that threatens to publish the victim's personal data or permanently block access to it unless a ransom is paid.*
 

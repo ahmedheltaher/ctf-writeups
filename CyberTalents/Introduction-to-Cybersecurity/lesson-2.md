@@ -12,7 +12,7 @@ In this lesson, we will learn about Web Security, what are the most common Jobs 
 
 ## Solution
 
-In this challenge, we just need to guess the name of the conference, which is `DEF CON`.
+In this challenge, we just need to do some research about `Cyber Security Conferences` and we will find that `DEF CON` is the largest gathering for Hackers in the whole world.
 
 *DEF CON is a series of hacker conventions held annually in Las Vegas, Nevada, United States. The first DEF CON was held in 1993. DEF CON is run by the DEF CON Group, a non-profit corporation formed in 1995. DEF CON is the largest hacker convention in the world, with over 10,000 attendees in 2019. DEF CON is known for its "capture the flag" competitions, its "hacker village", and its "talks" by hackers and security professionals. DEF CON is also known for its "badge hacking" contests, where attendees reverse engineer the DEF CON badges to find vulnerabilities and exploit them.*
 

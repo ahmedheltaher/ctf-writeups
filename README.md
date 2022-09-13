@@ -6,10 +6,10 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- [2022-09-07] [CyberTalents CTF](cybertalents.com/ctf-challenges) - [Writeup](cybertalents.com/ctf-challenges)
+- [2022-09-13] [HTML](./CyberTalents/Introduction-to-Cybersecurity/lesson-3.md)
 
 ---
 
 ## Websites
 
-- [CyberTalents CTF](./CyberTalents/)
+- [CyberTalents](./CyberTalents/README.md)
