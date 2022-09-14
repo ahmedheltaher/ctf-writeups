@@ -22,3 +22,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 5: [Cookies](./lesson-5.md).
 - Lesson 6: [Hashing](./lesson-6.md).
 - Lesson 7: [Encoding](./lesson-7.md).
+- Lesson 8: [Obfuscation](./lesson-8.md).
