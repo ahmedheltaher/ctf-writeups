@@ -1,5 +1,8 @@
 # Lesson 4: JavaScript
 
+> Lesson Link:\
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/4-javascript](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/4-javascript)*
+
 ## Introduction
 
 In this lesson, we will learn about JavaScript, some of the most common JavaScript functions, and how to use them. use javascript for xss.

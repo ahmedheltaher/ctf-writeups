@@ -1,5 +1,8 @@
 # Lesson 3: HTML
 
+> Lesson Link:\
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/3-html](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/3-html)*
+
 ## Introduction
 
 In this lesson, we will learn about HTML, some of the most common HTML tags, and how to use them. also, we will learn why HTML is important in Web Security.

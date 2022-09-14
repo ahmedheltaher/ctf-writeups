@@ -4,7 +4,7 @@ This is a collection of writeups for CTF Challenges from [CyberTalents](https://
 
 ## Recent Writeups
 
-- [2022-09-14] [Hashing](./Introduction-to-Cybersecurity/lesson-6.md).
+- [2022-09-14] [Encoding](./Introduction-to-Cybersecurity/lesson-7.md).
 
 ## Topics
 

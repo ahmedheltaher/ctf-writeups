@@ -1,5 +1,8 @@
 # Lesson 5: Cookies
 
+> Lesson Link:\
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/5-cookies](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/5-cookies)*
+
 ## Introduction
 
 In this lesson, we will learn about Cookies, how to use them, tools that you can use to manipulate them, and how to use them to bypass authentication.

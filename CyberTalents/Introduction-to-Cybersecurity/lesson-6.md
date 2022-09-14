@@ -1,5 +1,8 @@
 # Lesson 6: Hashing
 
+> Lesson Link:\
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/6-hashing](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/6-hashing)*
+
 ## Introduction
 
 Hashing is a one-way function that takes a string of any length and returns a fixed-length string. The output of the function is called a hash. Hashing is used to verify the integrity of data. It is also used to store passwords in a database. The hash of a password is stored in the database instead of the password itself. This way, if the database is compromised, the attacker will have a hard time getting the passwords.

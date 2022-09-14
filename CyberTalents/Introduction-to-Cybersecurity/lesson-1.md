@@ -1,5 +1,8 @@
 # Lesson 1: Introduction to CTF
 
+> Lesson Link:\
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/1-introduction-to-ctf](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/1-introduction-to-ctf)*
+
 ## Introduction
 
 In this lesson, we will learn about CTFs there are many types of CTFs, but in this lesson, we will focus on the most common type of CTFs which are called Jeopardy CTFs.

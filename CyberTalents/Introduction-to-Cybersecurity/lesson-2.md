@@ -1,5 +1,8 @@
 # Lesson 2: Introduction to Web Security
 
+> Lesson Link:\
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/2-introduction-to-web-security](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/2-introduction-to-web-security)*
+
 ## Introduction
 
 In this lesson, we will learn about Web Security, what are the most common Jobs in Web Security, and how to get started in Web Security.
