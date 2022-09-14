@@ -6,9 +6,11 @@ In this lesson, we will learn about JavaScript, some of the most common JavaScri
 
 ## Challenge
 
-> Name: This is Sparta.
+> Name:\
+> *This is Sparta.*
 ---
-> Description: Morning has broken today they're fighting in the shade when arrows blocked the sun they fell tonight they dine in hell.
+> Description:\
+> *Morning has broken today they're fighting in the shade when arrows blocked the sun they fell tonight they dine in hell.*
 ---
 > *FLAG Format:  {flagbody}*.
 

@@ -6,9 +6,11 @@ In this lesson, we will learn about Cookies, how to use them, tools that you can
 
 ## Challenge
 
-> Name: Admin has the power.
+> Name:\
+> *Admin has the power.*
 ---
-> Description: Administrators only has the power to see the flag , can you be one ?
+> Description:\
+> *Administrators only has the power to see the flag , can you be one?*
 
 ## Solution
 
