@@ -12,7 +12,9 @@ Hashing is a one-way function that takes a string of any length and returns a fi
 
 > Name:\
 > Hash3rror.
----
+
+----
+
 > Description:\
 > *we got this corrupted hash password from a Pcap file with a note (password = sha-1(hash-result))*.
 *HASH:77be5d24ed2e3e590045e1d67e8450d2799c19f48ede46804a8734e287df120f*

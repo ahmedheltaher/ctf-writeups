@@ -8,7 +8,9 @@ In this lesson, we will learn about Cookies, how to use them, tools that you can
 
 > Name:\
 > *Admin has the power.*
+
 ---
+
 > Description:\
 > *Administrators only has the power to see the flag , can you be one?*
 

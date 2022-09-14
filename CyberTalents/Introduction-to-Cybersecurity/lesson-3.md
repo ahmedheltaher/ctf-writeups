@@ -8,7 +8,9 @@ In this lesson, we will learn about HTML, some of the most common HTML tags, and
 
 > Name:\
 > *htmlentities.*
+
 ---
+
 > Description:\
 > *True or False , htmlentities ( convert special characters to its html entity ) can't be exploited to run XSS payload ?*
 

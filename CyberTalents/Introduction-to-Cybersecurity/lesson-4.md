@@ -8,7 +8,9 @@ In this lesson, we will learn about JavaScript, some of the most common JavaScri
 
 > Name:\
 > *This is Sparta.*
+
 ---
+
 > Description:\
 > *Morning has broken today they're fighting in the shade when arrows blocked the sun they fell tonight they dine in hell.*
 ---
