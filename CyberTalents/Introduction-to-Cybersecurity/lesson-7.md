@@ -33,19 +33,19 @@ if we take a look at the source code of the page, we will find the following com
 
 ```html
 <!-- 
-	Guest Account:
-	-=-=-=-=-=-=-=-
-	Username:Guest
-	Password:Guest  
+    Guest Account:
+    -=-=-=-=-=-=-=-
+    Username:Guest
+    Password:Guest  
 -->
 ```
 
 so we will try to login with the given credentials, and we redirected to the following page:
 
 ```html
-   Welcome, Guest !
+Welcome, Guest !
 
-   Access Denied. You have no admin priviliges, Please login with an administrator account
+Access Denied. You have no admin priviliges, Please login with an administrator account
 ```
 
 If we take a look at the cookies, we will find a cookie called `Authentication` that has a value of `bG9naW49R3Vlc3Q%3D`.
@@ -57,10 +57,10 @@ so we can try to change the value of the cookie to `login=admin`, encode it usin
 if we change the value of the cookie to `login=admin`, encode it using base64, and refresh the page, we will get the following message:
 
 ```html
-   Welcome, Administrator !
+Welcome, Administrator !
 
-   Congratulation. Your Flag iS :
-   FLag{B@D_4uTh1Nt1C4Ti0n}
+Congratulation. Your Flag iS :
+FLag{B@D_4uTh1Nt1C4Ti0n}
 ```
 
 ## Flag

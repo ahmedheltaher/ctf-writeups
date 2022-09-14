@@ -32,7 +32,7 @@ so, we will try to inject some `XSS` payload in the search box, like this:
 and nothing happened, if we took a look at the source code, we will find this line:
 
 ```html
-    <script>var currentSearch = {'keyword':'you searched for: <script>alert("xss")</script>'};</script>
+<script>var currentSearch = {'keyword':'you searched for: <script>alert("xss")</script>'};</script>
 ```
 
 so, we might try to close the `script` tag before the `alert` function, like this:
