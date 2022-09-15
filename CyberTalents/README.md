@@ -4,7 +4,7 @@ This is a collection of writeups for CTF Challenges from [CyberTalents](https://
 
 ## Recent Writeups
 
-- [2022-09-14] [Directory Traversal](./Introduction-to-Cybersecurity/lesson-10.md).
+- [2022-09-15] [Sensitive Data Exposure](./Introduction-to-Cybersecurity/lesson-11.md).
 
 ## Topics
 

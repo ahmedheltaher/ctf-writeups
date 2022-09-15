@@ -25,3 +25,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 8: [Obfuscation](./lesson-8.md).
 - Lesson 9: [XSS](./lesson-9.md).
 - Lesson 10: [Directory Traversal](./lesson-10.md).
+- Lesson 11: [Sensitive Data Exposure](./lesson-11.md).

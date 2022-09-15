@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- [2022-09-14] [Directory Traversal](./CyberTalents/Introduction-to-Cybersecurity/lesson-10.md)
+- [2022-09-15] [Sensitive Data Exposure](./CyberTalents/Introduction-to-Cybersecurity/lesson-11.md)
 
 ---
 
