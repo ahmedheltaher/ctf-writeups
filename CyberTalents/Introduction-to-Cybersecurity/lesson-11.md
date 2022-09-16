@@ -1,7 +1,7 @@
 # Lesson 11: Sensitive Data Exposure
 
 > Lesson Link:\
-> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/11-sensitive-data-exposure](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/11-sensitive-data-exposure)*
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/11-sensitive-data-exposure](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/ssensitive-data-exposure)*
 
 ## Introduction
 

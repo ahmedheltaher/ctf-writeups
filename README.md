@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- [2022-09-15] [Sensitive Data Exposure](./CyberTalents/Introduction-to-Cybersecurity/lesson-11.md)
+- [2022-09-15] [Burp Suite](./CyberTalents/Introduction-to-Cybersecurity/lesson-12.md)
 
 ---
 
