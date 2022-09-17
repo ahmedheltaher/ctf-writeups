@@ -30,3 +30,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 13: [Command Injection](./lesson-13.md).
 - Lesson 14: [Code Injection](./lesson-14.md).
 - Lesson 15: [SQL Injection](./lesson-15.md).
+- Lesson 16: [Introduction to Digital Forensics](./lesson-16.md).

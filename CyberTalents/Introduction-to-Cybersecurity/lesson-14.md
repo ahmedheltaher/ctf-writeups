@@ -1,7 +1,7 @@
 # Lesson 14: Code Injection
 
 > Lesson Link:\
-> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lesson/14](https://cybertalents.com/learn/introduction-to-cybersecurity/lesson/14)*
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/code-injection](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/code-injection)*
 
 ## Introduction
 

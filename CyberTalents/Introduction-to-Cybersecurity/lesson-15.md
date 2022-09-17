@@ -1,7 +1,7 @@
 # Lesson 15: SQL Injection
 
 > Lesson link:\
-> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lesson/15](https://cybertalents.com/learn/introduction-to-cybersecurity/lesson/15)*
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/sql-injection](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/sql-injection)*
 
 ## Introduction
 
