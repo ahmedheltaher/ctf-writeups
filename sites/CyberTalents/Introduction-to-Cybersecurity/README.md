@@ -33,3 +33,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 16: [Introduction to Digital Forensics](./lesson-16.md).
 - Lesson 17: [Meta data](./lesson-17.md).
 - Lesson 18: [Steganography](./lesson-18.md).
+- Lesson 19: [Audio Forensics](./lesson-19.md).
