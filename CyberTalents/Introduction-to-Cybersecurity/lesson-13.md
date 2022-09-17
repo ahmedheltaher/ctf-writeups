@@ -9,7 +9,7 @@ In this lesson, we will learn about Command Injection, and how can we use it to 
 
 > ### What is Command Injection?
 >
-> #### Command injection is a web security vulnerability that allows an attacker to execute arbitrary operating system commands on the host server that is running an application. Command injection attacks are possible when an application passes unsafe user supplied data (forms, cookies, HTTP headers etc.) to a system shell. In this attack, the attacker-supplied operating system commands are usually executed with the privileges of the vulnerable application. Command injection attacks are possible mainly due to insufficient input validation.
+> #### Command injection is a web security vulnerability that allows an attacker to execute arbitrary operating system commands on the host server that is running an application. Command injection attacks are possible when an application passes unsafe user supplied data (forms, cookies, HTTP headers etc.) to a system shell. In this attack, the attacker-supplied operating system commands are usually executed with the privileges of the vulnerable application. Command injection attacks are possible mainly due to insufficient input validation
 
 ## Challenge
 
