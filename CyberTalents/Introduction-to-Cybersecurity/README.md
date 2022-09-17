@@ -11,13 +11,13 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 
 ## Course Link
 
-[https://cybertalents.com/learn/introduction-to-cybersecurity](https://cybertalents.com/learn/introduction-to-cybersecurity)
+[https://cybertalents.com/learn/introduction-to-cybersecurity](https://cybertalents.com/learn/introduction-to-cybersecurity).
 
 ## My Writeups
 
-- Lesson 1: [Introduction to CTF](./lesson-1.md)
-- Lesson 2: [Introduction to Web Security](./lesson-2.md)
-- Lesson 3: [HTML](./lesson-3.md)
+- Lesson 1: [Introduction to CTF](./lesson-1.md).
+- Lesson 2: [Introduction to Web Security](./lesson-2.md).
+- Lesson 3: [HTML](./lesson-3.md).
 - Lesson 4: [JavaScript](./lesson-4.md).
 - Lesson 5: [Cookies](./lesson-5.md).
 - Lesson 6: [Hashing](./lesson-6.md).
@@ -27,3 +27,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 10: [Directory Traversal](./lesson-10.md).
 - Lesson 11: [Sensitive Data Exposure](./lesson-11.md).
 - Lesson 12: [Burp Suite](./lesson-12.md).
+- Lesson 13: [Command Injection](./lesson-13.md).
