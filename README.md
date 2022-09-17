@@ -12,4 +12,4 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Websites
 
-- [CyberTalents](./CyberTalents/README.md)
+- [CyberTalents](./sites/CyberTalents/README.md)
