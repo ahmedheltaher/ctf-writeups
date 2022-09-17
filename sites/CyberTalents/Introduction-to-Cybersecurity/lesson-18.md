@@ -1,7 +1,7 @@
 # Lesson 18: Steganography
 
 > Lesson Link:\
-> [https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/18-steganography](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/18-steganography)
+> *[https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/18-steganography](https://cybertalents.com/learn/introduction-to-cybersecurity/lessons/18-steganography)*
 
 ## Introduction
 
