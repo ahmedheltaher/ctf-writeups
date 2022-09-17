@@ -4,7 +4,7 @@ This is a collection of writeups for CTF Challenges from [CyberTalents](https://
 
 ## Recent Writeups
 
-- [2022-09-17] [Introduction to Digital Forensics](./Introduction-to-Cybersecurity/lesson-16.md).
+- [2022-09-17] [Meta data](./Introduction-to-Cybersecurity/lesson-17.md).
 
 ## Topics
 
