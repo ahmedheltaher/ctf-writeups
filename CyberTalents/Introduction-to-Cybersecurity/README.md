@@ -28,3 +28,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 11: [Sensitive Data Exposure](./lesson-11.md).
 - Lesson 12: [Burp Suite](./lesson-12.md).
 - Lesson 13: [Command Injection](./lesson-13.md).
+- Lesson 14: [Code Injection](./lesson-14.md).

@@ -4,7 +4,7 @@ This is a collection of writeups for CTF Challenges from [CyberTalents](https://
 
 ## Recent Writeups
 
-- [2022-09-17] [Command Injection](./Introduction-to-Cybersecurity/lesson-13.md).
+- [2022-09-17] [Code Injection](./Introduction-to-Cybersecurity/lesson-14.md).
 
 ## Topics
 
