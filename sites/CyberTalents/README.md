@@ -4,7 +4,7 @@ This is a collection of writeups for CTF Challenges from [CyberTalents](https://
 
 ## Recent Writeups
 
-- [2022-09-18] [Wireshark](./Introduction-to-Cybersecurity/lesson-10.md).
+- [2022-09-19] [Netcat](./Introduction-to-Cybersecurity/lesson-21.md).
 
 ## Topics
 
