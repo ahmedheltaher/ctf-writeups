@@ -26,17 +26,17 @@ We can use `wireshark` to open the `pcap` file, and then we can go `Statistics` 
 We can see that there is a conversation between the employee who leaked the image and the other one, the conversation says:
 
 ```diff
-- Hey bro -
-+ Sup supp, are we ready +
-- yeah, u got the files? -
-+ yes but i think the channel is not secured+ 
-- the UTM will block the file transfer as the DLP module is active- 
-+ ok we can use cryptcat +
-- ok what the password then -
-+ let it be P@ssawordaya +
-- hhh, ok -
-+ listen on 7070 and ill send you the file , bye+
-- bye -
+-Hey bro
++Sup supp, are we ready
+-yeah, u got the files?
++yes but i think the channel is not secured
+-the UTM will block the file transfer as the DLP module is active
++ok we can use cryptcat
+-ok what the password then
++let it be P@ssawordaya
+-hhh, ok
++listen on 7070 and ill send you the file , bye
+-bye
 ```
 
 We can see that the employee used `cryptcat` to send the image, and the password is `P@ssawordaya`.
