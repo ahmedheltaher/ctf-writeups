@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [CyberTalents](https://
 
 ## Recent Writeups
 
-- [2022-09-22] [Caesar Cipher](./Introduction-to-Cybersecurity/lesson-27.md).
+- [2022-09-22] [Hash Cracking](./Introduction-to-Cybersecurity/lesson-28.md).
 
 ---
 

@@ -42,3 +42,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 25: [Introduction to Cryptography](./lesson-25.md).
 - Lesson 26: [Morse Code](./lesson-26.md).
 - Lesson 27: [Caesar Cipher](./lesson-27.md).
+- Lesson 28: [Hash Cracking](./lesson-28.md).
