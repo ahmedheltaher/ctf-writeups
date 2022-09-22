@@ -62,11 +62,11 @@ FUN_00401100 = 0x401100
 s_elite_004020f8 = 0x4020f8
 ```
 
-Now we can construct the flag.```
+Now we can construct the flag.
 
 ## Flag
 
-> flag{0x401180|0x401100|0x4020f8}
+> flag{0x401180\|0x401100\|0x4020f8}
 
 ## References
 

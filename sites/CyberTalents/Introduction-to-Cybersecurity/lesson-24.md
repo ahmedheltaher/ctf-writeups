@@ -40,7 +40,7 @@ So the function `fx` takes one parameter and, multiplies it by 8 (sal = shift ar
 
 So we need to find the parameter that makes the function return 1. So we need to solve the following equation:
 
-$8 * parameter = 5744$
+`8 * parameter = 5744`
 
 So the parameter is 718.
 

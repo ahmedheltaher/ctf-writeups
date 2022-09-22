@@ -40,3 +40,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 23: [Introduction to Reverse Engineering](./lesson-23.md).
 - Lesson 24: [Intel-x86 Architecture Cover](./lesson-24.md).
 - Lesson 25: [Introduction to Cryptography](./lesson-25.md).
+- Lesson 26: [Morse Code](./lesson-26.md).
