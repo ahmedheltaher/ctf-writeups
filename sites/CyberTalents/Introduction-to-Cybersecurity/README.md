@@ -37,3 +37,4 @@ This is a 28 Lessons self-paced course that will teach you the basics of cyberse
 - Lesson 20: [Wireshark](./lesson-20.md).
 - Lesson 21: [Netcat](./lesson-21.md).
 - Lesson 22: [Memory Forensics](./lesson-22.md).
+- Lesson 23: [Introduction to Reverse Engineering](./lesson-23.md).
