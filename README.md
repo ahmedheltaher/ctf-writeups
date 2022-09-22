@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- [2022-09-19] [Netcat](./sites/CyberTalents/Introduction-to-Cybersecurity/lesson-21.md)
+- [2022-09-22] [Memory Forensics](./sites/CyberTalents/Introduction-to-Cybersecurity/lesson-22.md)
 
 ---
 
