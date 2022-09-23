@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- [2022-09-23] [Nice netcat](./sites/picoCTF/General-Skills/Nice-netcat.md)
+- [2022-09-23] [Static ain't always noise](./sites/picoCTF/General-Skills/Static-ain't-always-noise.md)
 
 ---
 
