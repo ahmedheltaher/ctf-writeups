@@ -4,4 +4,5 @@ In this category, you will find challenges that are more about learning how to u
 
 ## My writeups
 
-- Challenge 1: [Obedient Cat](./Obedient-Cat/README.md).
+- Challenge 1: [Obedient Cat](./Obedient-Cat.md).
+- Challenge 2: [Python Wrangling](./Python-Wrangling.md).

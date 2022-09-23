@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- [2021-09-23] [Obedient Cat](./General-Skills/Obedient-Cat/README.md)
+- [2021-09-23] [Python Wrangling](./General-Skills/Python-Wrangling.md)
 
 ---
 

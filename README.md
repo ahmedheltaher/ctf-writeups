@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- [2022-09-22] [Hash Cracking](./sites/CyberTalents/Introduction-to-Cybersecurity/lesson-28.md)
+- [2022-09-23] [Python Wrangling](./sites/picoCTF/General-Skills/Python-Wrangling.md)
 
 ---
 
