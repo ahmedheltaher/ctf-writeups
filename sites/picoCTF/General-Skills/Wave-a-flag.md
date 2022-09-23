@@ -25,7 +25,8 @@ as we can see, the file takes the `-h` argument to show the help message. if we 
 
 ```bash
 $ ./warm -h
-Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
+Oh, help? I actually don't do much, but I do have this flag here:\ 
+picoCTF{b1scu1ts_4nd_gr4vy_f0668f62}
 ```
 
 as we can see, the file shows the flag.

@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- [2021-09-23] [Wave a flag](../picoCTF/General-Skills/Wave-a-flag.md)
+- [2021-09-23] [Nice netcat](../picoCTF/General-Skills/Nice-netcat.md)
 
 ---
 
