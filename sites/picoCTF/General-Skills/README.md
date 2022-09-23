@@ -6,3 +6,4 @@ In this category, you will find challenges that are more about learning how to u
 
 - Challenge 1: [Obedient Cat](./Obedient-Cat.md).
 - Challenge 2: [Python Wrangling](./Python-Wrangling.md).
+- Challenge 3: [Wave a flag](./Wave-a-flag.md).
