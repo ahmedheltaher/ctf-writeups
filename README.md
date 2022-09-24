@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- [2022-09-23] [Warmed Up](./sites/picoCTF/General-Skills/Warmed-Up.md)
+- **[`2022-09-24`]** [2Warm](./sites/picoCTF/General-Skills/2Warm.md)
 
 ---
 

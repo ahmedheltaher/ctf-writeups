@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- [2021-09-23] [Warmed Up](./General-Skills/Warmed-Up.md)
+- **[`2022-09-24`]** [2Warm](./General-Skills/2Warm.md)
 
 ---
 
