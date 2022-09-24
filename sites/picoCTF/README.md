@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- **[`2022-09-24`]** [strings it](./General-Skills/strings-it.md)
+- **[`2022-09-24`]** [Bases](./General-Skills/bases.md)
 
 ---
 

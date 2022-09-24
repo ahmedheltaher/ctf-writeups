@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- **[`2022-09-24`]** [strings it](./sites/picoCTF/General-Skills/strings-it.md)
+- **[`2022-09-24`]** [Bases](./sites/picoCTF/General-Skills/bases.md)
 
 ---
 
