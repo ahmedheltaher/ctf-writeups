@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- **[`2022-09-24`]** [2Warm](./General-Skills/2Warm.md)
+- **[`2022-09-24`]** [what's a net cat?](./General-Skills/what's-a-net-cat.md)
 
 ---
 

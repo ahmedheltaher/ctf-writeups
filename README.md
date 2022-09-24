@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- **[`2022-09-24`]** [2Warm](./sites/picoCTF/General-Skills/2Warm.md)
+- **[`2022-09-24`]** [what's a net cat?](./sites/picoCTF/General-Skills/what's-a-net-cat.md)
 
 ---
 
