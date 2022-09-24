@@ -11,3 +11,4 @@ In this category, you will find challenges that are more about learning how to u
 - Challenge 5: [Static ain't always noise](./Static-ain't-always-noise.md).
 - Challenge 6: [Tab, Tab, Attack](./Tab-Tab-Attack.md).
 - Challenge 7: [Magikarp Ground Mission](./Magikarp-Ground-Mission.md).
+- Challenge 8: [Lets Warm Up](./Lets-Warm-Up.md).

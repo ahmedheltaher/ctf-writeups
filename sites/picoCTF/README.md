@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- [2021-09-23] [Magikarp Ground Missio](./General-Skills/Magikarp-Ground-Mission.md)
+- [2021-09-23] [MLets Warm Up](./General-Skills/Lets-Warm-Up.md)
 
 ---
 
