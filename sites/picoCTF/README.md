@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- **[`2022-09-24`]** [First Grep](./General-Skills/First-Grep.md)
+- **[`2022-09-24`]** [Codebook](./General-Skills/Codebook.md)
 
 ---
 
