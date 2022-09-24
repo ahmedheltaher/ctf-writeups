@@ -6,7 +6,7 @@ If I told you a word started with 0x70 in hexadecimal, what would it start with 
 
 ### Tags
 
-`picoCTF 2021` `General Skills`
+`picoCTF 2019` `General Skills`
 
 ### Points
 
