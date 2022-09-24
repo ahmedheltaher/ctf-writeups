@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- **[`2022-09-24`]** [fixme2.py](./sites/picoCTF/General-Skills/fixme2.py.md)
+- **[`2022-09-24`]** [Glitch Cat](./sites/picoCTF/General-Skills/Glitch-Cat.md)
 
 ---
 
