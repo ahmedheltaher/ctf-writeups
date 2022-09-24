@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- **[`2022-09-24`]** [fixme1.py](./General-Skills/fixme1.py.md)
+- **[`2022-09-24`]** [fixme2.py](./General-Skills/fixme2.py.md)
 
 ---
 

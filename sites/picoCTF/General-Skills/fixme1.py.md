@@ -18,7 +18,8 @@ If we run the script, we get the following output:
 
 ```bash
 $ python3 fixme1.py
-File "/home/kali/Desktop/ctf/picoCTF/General-Skills/fixme1.py/fixme1.py", line 20
+
+  File "/home/kali/Desktop/ctf/picoCTF/General-Skills/fixme1.py/fixme1.py", line 20
     print('That is correct! Here\'s your flag: ' + flag)
 IndentationError: unexpected indent
 ```
