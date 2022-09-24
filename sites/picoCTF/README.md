@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- [2021-09-23] [Tab, Tab, Attack](./General-Skills/Tab-Tab-Attack.md)
+- [2021-09-23] [Magikarp Ground Missio](./General-Skills/Magikarp-Ground-Mission.md)
 
 ---
 
