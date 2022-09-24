@@ -15,3 +15,4 @@ In this category, you will find challenges that are more about learning how to u
 - Challenge 9: [Warmed Up](./Warmed-Up.md). **`2019`**
 - Challenge 10: [2Warm](./2Warm.md). **`2019`**
 - Challenge 11: [what's a net cat?](./what's-a-net-cat.md). **`2019`**
+- Challenge 12: [strings it](./strings-it.md). **`2019`**
