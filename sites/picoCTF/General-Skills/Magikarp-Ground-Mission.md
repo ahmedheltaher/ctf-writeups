@@ -17,7 +17,7 @@ Do you know how to move between directories and read files in the shell? Start t
 We need to connect to the server using ssh. We need to lunch the instance first. after that, we can connect to the server using the following command:
 
 ```bash
-$ ssh ctf-player@venus.picoctf.net -p 57496
+ssh ctf-player@venus.picoctf.net -p 57496
 ```
 
 when we connect to the server, after we run the `ls` command, we will get the following message:
@@ -35,6 +35,7 @@ $ cat 1of3.flag.txt
 
 picoCTF{xxsh_
 ```
+
 if we cat the `instructions-to-2of3.txt` file, we will get the following message:
 
 ```bash
@@ -46,7 +47,7 @@ Next, go to the root of all things, more succinctly `/`
 we can see that we need to go to the root directory. we can do this by running the following command:
 
 ```bash
-$ cd /
+cd /
 ```
 
 after we run the `ls` command, we will get the following message:
@@ -77,7 +78,7 @@ Lastly, ctf-player, go home... more succinctly `~`
 we can see that we need to go to the home directory. we can do this by running the following command:
 
 ```bash
-$ cd ~
+cd ~
 ```
 
 after we run the `ls` command, we will get the following message:

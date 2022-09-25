@@ -17,7 +17,7 @@ Using tabcomplete in the Terminal will add years to your life, esp. when dealing
 We get a zip file called `Addadshashanammu.zip`. If we unzip the file, using the command `unzip Addadshashanammu.zip`, we will get a directory called `Addadshashanammu`. If we `cd` into the directory, we will find another long named directory, we can write cd and then press tab to autocomplete the directory name. and we will keep doing this until we get to the flag file. the flag file is called `fang-of-haynekhtnamet`. if we cat the file, we will get some random gibberish. so we can use the command `strings fang-of-haynekhtnamet` to get the flag. with the command `grep` we can search for the flag. the flag is in the 3rd line.
 
 ```bash
-$ strings fang-of-haynekhtnamet | grep picoCTF
+strings fang-of-haynekhtnamet | grep picoCTF
 ```
 
 ## Flag

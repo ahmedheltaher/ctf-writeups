@@ -1,6 +1,7 @@
 # Challenge 15: Codebook
 
 ## Description
+
 Run the Python script `code.py` in the same directory as `codebook.txt`.
 
 - [Download code.py](https://artifacts.picoctf.net/c/101/code.py)

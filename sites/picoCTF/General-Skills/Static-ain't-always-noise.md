@@ -17,15 +17,15 @@ Can you look at the data in this binary: [static](https://mercury.picoctf.net/st
 We get a file called `static` and a bash script called `ltdis.sh`. The bash script is a script that uses `objdump` to disassemble the file. and `strings` to get the strings of the file. if we run the script, we get the following message:
 
 ```bash
-$ chmod +x ltdis.sh
+chmod +x ltdis.sh
 
-$ ./ltdis.sh static
+./ltdis.sh static
 ```
 
 After running the script, we will get 2 files: `static.ltdis.x86_64.txt` and `static.strings.txt`. lets cat the `static.strings.txt` file:
 
 ```bash
-$ cat static.strings.txt
+cat static.strings.txt
 ```
 
 we will get a lot of strings. if we search for the flag, we will get the following message:
