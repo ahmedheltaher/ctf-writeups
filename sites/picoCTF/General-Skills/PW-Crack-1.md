@@ -8,7 +8,7 @@ Can you crack the password to get the flag? Download the password checker [here]
 
 `Beginner picoMini 2022` `General Skills` `password_cracking`
 
-## Points
+### Points
 
 `100`
 

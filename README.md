@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- **[`2022-09-26`]** [PW Crack 4](./sites/picoCTF/General-Skills/PW-Crack-4.md)
+- **[`2022-09-26`]** [PW Crack 5](./sites/picoCTF/General-Skills/PW-Crack-5.md)
 
 ---
 
