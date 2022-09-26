@@ -37,3 +37,4 @@ In this category, you will find challenges that are more about learning how to u
 - Challenge 31: [plumbing](./plumbing.md). **`2019`**
 - Challenge 32: [mus1c](./mus1c.md). **`2019`**
 - Challenge 33: [flag_shop](./flag_shop.md). **`2019`**
+- Challenge 34: [1_wanna_b3_a_r0ck5tar](./1_wanna_b3_a_r0ck5tar.md). **`2019`**
