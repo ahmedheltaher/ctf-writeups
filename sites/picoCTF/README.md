@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- **[`2022-09-26`]** [plumbing](./General-Skills/plumbing.md)
+- **[`2022-09-26`]** [mus1c](./General-Skills/mus1c.md)
 
 ---
 
