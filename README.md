@@ -6,7 +6,7 @@ This is a collection of writeups for CTFs either I have participated in or train
 
 ## Recent Writeups
 
-- **[`2022-09-26`]** [Serpentine](./sites/picoCTF/General-Skills/Serpentine.md)
+- **[`2022-09-26`]** [First Find](./sites/picoCTF/General-Skills/First-Find.md)
 
 ---
 

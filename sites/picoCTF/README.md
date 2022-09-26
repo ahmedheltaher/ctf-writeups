@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- **[`2022-09-26`]** [Serpentine](./General-Skills/Serpentine.md)
+- **[`2022-09-26`]** [First Find](./General-Skills/First-Find.md)
 
 ---
 
