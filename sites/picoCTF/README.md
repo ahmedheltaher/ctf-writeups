@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- **[`2022-09-26`]** [runme.py](./General-Skills/runme.py.md)
+- **[`2022-09-26`]** [Serpentine](./General-Skills/Serpentine.md)
 
 ---
 

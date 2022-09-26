@@ -30,3 +30,4 @@ In this category, you will find challenges that are more about learning how to u
 - Challenge 24: [PW Crack 4](./PW-Crack-4.md). **`2022`**
 - Challenge 25: [PW Crack 5](./PW-Crack-5.md). **`2022`**
 - Challenge 26: [runme.py](./runme.py.md). **`2022`**
+- Challenge 27: [Serpentine](./Serpentine.md). **`2022`**
