@@ -26,3 +26,4 @@ In this category, you will find challenges that are more about learning how to u
 - Challenge 20: [HashingJobApp](./HashingJobApp.md). **`2022`**
 - Challenge 21: [PW Crack 1](./PW-Crack-1.md). **`2022`**
 - Challenge 22: [PW Crack 2](./PW-Crack-2.md). **`2022`**
+- Challenge 23: [PW Crack 3](./PW-Crack-3.md). **`2022`**
