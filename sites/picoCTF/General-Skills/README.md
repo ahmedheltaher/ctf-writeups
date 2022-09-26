@@ -36,3 +36,4 @@ In this category, you will find challenges that are more about learning how to u
 - Challenge 30: [Based](./Based.md). **`2019`**
 - Challenge 31: [plumbing](./plumbing.md). **`2019`**
 - Challenge 32: [mus1c](./mus1c.md). **`2019`**
+- Challenge 33: [flag_shop](./flag_shop.md). **`2019`**

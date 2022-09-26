@@ -6,7 +6,7 @@ This is a collection of writeups for CTF Challenges from [picoCTF](https://picoc
 
 ## Recent Writeups
 
-- **[`2022-09-26`]** [mus1c](./General-Skills/mus1c.md)
+- **[`2022-09-26`]** [flag_shop](./General-Skills/flag_shop.md)
 
 ---
 
