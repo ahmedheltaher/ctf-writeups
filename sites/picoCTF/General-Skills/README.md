@@ -24,3 +24,4 @@ In this category, you will find challenges that are more about learning how to u
 - Challenge 18: [fixme2.py](./fixme2.py.md). **`2022`**
 - Challenge 19: [Glitch Cat](./Glitch-Cat.md). **`2022`**
 - Challenge 20: [HashingJobApp](./HashingJobApp.md). **`2022`**
+- Challenge 21: [PW Crack 1](./PW-Crack-1.md). **`2022`**
