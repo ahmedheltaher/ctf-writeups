@@ -17,7 +17,6 @@ Can you crack the password to get the flag? Download the password checker [here]
 In this challenge we are given a script and an encrypted flag. also we are given a hash file. The script is a simple password checker, if we entered the correct password it will print the flag. we can take a look at the script. It might has something useful to us.
 
 ```python
-  GNU nano 6.4                                          level3.py
 import hashlib
 
 ### THIS FUNCTION WILL NOT HELP YOU FIND THE FLAG --LT ########################
