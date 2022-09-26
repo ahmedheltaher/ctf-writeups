@@ -32,3 +32,4 @@ In this category, you will find challenges that are more about learning how to u
 - Challenge 26: [runme.py](./runme.py.md). **`2022`**
 - Challenge 27: [Serpentine](./Serpentine.md). **`2022`**
 - Challenge 28: [First Find](./First-Find.md). **`2022`**
+- Challenge 29: [Big Zip](./Big-Zip.md). **`2022`**
