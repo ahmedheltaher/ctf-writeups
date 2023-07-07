@@ -28,11 +28,11 @@ It will look something like this:
 
 ![alt](../../../assets/CybertTalents/i-love-music/flag.png)
 
-We can see that the flag is `you_are_victorious`.
+We can see that the flag is `you_are_victorious!`.
 
 ## Flag
 
-> you_are_victorious
+> you_are_victorious!
 
 ## References
 
