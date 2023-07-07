@@ -35,7 +35,8 @@ file CybertalentDemo0.exe
 We get the following output:
 
 ```bash
-CybertalentDemo0.exe: cannot open 'CybertalentDemo0.exe' (No such file or directory)
+CybertalentDemo0.exe: PE32 executable (console) Intel 80386, for MS Windows,\
+5 sections
 ```
 
 So We Need to use a tool to analyze the file. I went with `ghidra`.
